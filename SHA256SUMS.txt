@@ -1,0 +1,6 @@
+4c04c26ea3c77e03d0ff89b9787f312f1c6bdfe23d8252e288d99418d2d809aa  Glowtank-CYD-app.bin
+6b06b17dd4bd5f3874d8df55fa82cdf618a472bb7ed07c928f9289ccad320bb9  Glowtank-CYD-fast-app.bin
+06baca3d78c67d7f2fb50418f42bf92541bf52e1a8bc68ba45a377d4e472f2e1  Glowtank-CYD-fast-full.bin
+ec4349737281e706637eb0cc8edb80993af0e26b6c79f249fa647044f7793655  Glowtank-CYD-full.bin
+0d659985538de3ef195590ed4e600d1e34585d82300e193aeaded5367c6c870c  Glowtank-CYD-safe-app.bin
+b31cd0b09722b2db79d1eecb90d8c939b1a3fd1f994985adb18267dd42f3bc74  Glowtank-CYD-safe-full.bin
