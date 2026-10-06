@@ -1,3 +1,7 @@
+<img width="1296" height="400" alt="portrait-overview" src="https://github.com/user-attachments/assets/f2f6428d-c54c-4ce9-b00d-ca458ad1acaa" />
+<img width="1696" height="320" alt="landscape-overview" src="https://github.com/user-attachments/assets/8833cd00-0f03-44f0-9ded-fc4d7d74aada" />
+
+
 # Glowtank for the Cheap Yellow Display
 
 **Version 1.3 — rendering performance pass.** Version 1.2 now works on the user's CYD, at roughly 11–12 FPS. This update speeds up lossless background decoding, pixel shading and display byte conversion while preserving the native resolution, geometry, colors and controls. The working display initialization and backlight setup are retained. The startup message identifies this build as `CYD 1.3 render optimization`. **30 FPS is a target, not a measured result for this release.**
